@@ -2,7 +2,7 @@ name: opencv-gui-env
 channels:
   - defaults
 dependencies:
-  - python==3.9.0
+  - python==3.9.6
   - pip:
     - opencv-python==4.6.0.66
     - opencv-contrib-python==4.6.0.66
